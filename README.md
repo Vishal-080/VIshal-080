@@ -59,8 +59,11 @@ https://medium.com/@vrathod591
 <br/>
 <br/>
 <br/>
-<br/>
+<br/>title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515
 <br/>
 <br/>
 <br/>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-080&theme=dark" alt="vishal-080" /></p>
+<br/>
+<a href="https://github.com/vishal-080/github-readme-activity-graph"><img alt="Vishal Rathod's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishal-080&bg_color=151515&color=daf7dc&line=ffc857&point=FFFFFF&hide_border=true" /></a>
+
