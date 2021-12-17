@@ -4,6 +4,12 @@
 <h3 align="center">A Full-stack web developer from India</h3>
 <h3 align="center">" Code Never Lies "</h3>
 <br/>
+<p text-align="center"> A dedicated Full Stack Web developer with a specialized skill set
+    that enables me to build robust web applications. I am adept in
+    both front-end and back-end and have an eye for performance and
+    accuracy.
+</p>
+<br/>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
 
@@ -13,13 +19,19 @@
 
 - 🌱 I’m currently learning **React , Redux**
 - 💬 Talk to me about startups, memes, movies & web-series.
-- 📫 How to reach me **vrathod591@gmail.com**
+- 📫 Reach me out **vrathod591@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 https://medium.com/@vrathod591
 <!-- BLOG-POST-LIST:END -->
 
+<br />
+
+## My Portfolio 
+https://vishalrathod-portfolio.vercel.app/
+
+<br />
 <h3 align="left">Connect with me:</h3>
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" height="50px">
 <p align="left">
