@@ -4,9 +4,9 @@
 <h3 align="center">A Front-End web developer from India</h3>
 <h3 align="center">" Code Never Lies "</h3>
 <br/>
-<p text-align="center"> A dedicated Full Stack Web developer with a specialized skill set
+<p text-align="center"> A dedicated Front-End Web developer with a specialized skill set
     that enables me to build robust web applications. I am adept in
-    both front-end and back-end and have an eye for performance and
+    front-end, front-end frameworks and tools and have an eye for performance and
     accuracy.
 </p>
 <br/>
@@ -17,7 +17,7 @@
 
 <p align="left"> <a href="https://twitter.com/vishal_rathod01" target="blank"><img src="https://img.shields.io/twitter/follow/vishal_rathod01?logo=twitter&style=for-the-badge" alt="vishal_rathod01" /></a> </p>
 
-- 🌱 I’m currently learning **React , Redux**
+- 🌱 I’m currently working and learning **React , Redux**
 - 💬 Talk to me about startups, memes, movies & web-series.
 - 📫 Reach me out **vrathod591@gmail.com**
 
