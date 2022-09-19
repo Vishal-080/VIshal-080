@@ -1,7 +1,7 @@
 <!-- https://github.com/SoumyashreeBehera# -->
 
 <h1 align="center">Hey There 👋, I'm Vishal Rathod</h1>
-<h3 align="center">A Full-stack web developer from India</h3>
+<h3 align="center">A Front-End web developer from India</h3>
 <h3 align="center">" Code Never Lies "</h3>
 <br/>
 <p text-align="center"> A dedicated Full Stack Web developer with a specialized skill set
