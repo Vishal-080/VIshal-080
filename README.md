@@ -87,5 +87,5 @@ https://vishalrathod-portfolio.vercel.app/
 <br/>
 <br/>
 <br/>
-<a href="https://github.com/vishal-080/github-readme-activity-graph"><img alt="Vishal Rathod's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishal-080&bg_color=151515&color=daf7dc&line=ffc857&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/vishal-080/github-readme-activity-graph"><img alt="Vishal Rathod's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishal-080&bg_color=151515&color=daf7dc&line=ffc857&point=FFFFFF&hide_border=true" /></a> -->
 
