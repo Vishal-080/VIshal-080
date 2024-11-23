@@ -6,7 +6,7 @@
 <br/>
 <p text-align="center"> A dedicated Front-End Web developer with a specialized skill set
     that enables me to build robust web applications. I am adept in
-    front-end, front-end frameworks and tools and have an eye for performance and
+    front-end development, front-end libraries, and frameworks, and have an eye for details, performance and
     accuracy.
 </p>
 <br/>
